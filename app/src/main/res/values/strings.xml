@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AppGuest</string>
+    <string name="title">App Guest</string>
+    <string name="type_your_name">Type your name:</string>
+    <string name="name">Name</string>
+    <string name="lastname">Lastname</string>
+    <string name="type_your_lastname">Type your lastname:</string>
+    <string name="family">Family</string>
+    <string name="which_family_is_yours">Which family is yours?</string>
+    <string name="how_many_guests">How many guests do you want to bring?</string>
+    <string name="smoker">Smoker?</string>
+    <string name="submit">SUBMIT</string>
 </resources>
